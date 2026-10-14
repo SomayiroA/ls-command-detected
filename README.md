@@ -79,7 +79,7 @@ The alert was classified as a False Positive. The detection rule matched a subst
 - No evidence of command injection or malicious execution was identified in the documented investigation.
 
 
-### COnclusion
+### Conclusion
 
 
 This was a False Positive caused by a keyword-based detection rule. The presence of ls alone was insufficient to establish malicious intent. 
